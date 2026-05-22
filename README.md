@@ -26,7 +26,7 @@ Um aplicativo web interativo que implementa a técnica Pomodoro para melhorar pr
 1. Clone o repositório
 2. Navegue até o diretório do projeto:
    ```bash
-   cd 10-pomodoro-timer-vue
+   cd pomodoro-timer-vue
    ```
 3. Abra o arquivo `index.html` no seu navegador
 

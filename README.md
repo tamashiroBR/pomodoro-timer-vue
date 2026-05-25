@@ -70,28 +70,13 @@ python3 -m http.server 8000
 - **Barra de Progresso**: Mostra percentual de tempo decorrido
 - **Estatísticas**: Sessões completas e tempo total
 
-## 🎨 Design
-
-- **Cores Principais**: Roxo (#667eea) para trabalho, Verde (#48bb78) para pausa
-- **Layout Responsivo**: Adapta-se a qualquer tamanho de tela
-- **Animações Suaves**: Transições e efeitos visuais
-- **Tipografia Clara**: Fonte grande e legível
-
 ## 🔊 Notificações Sonoras
 
 O aplicativo gera um tom de 800Hz ao completar cada sessão usando Web Audio API. Pode ser desativado nas configurações.
 
 ## 💾 Dados
 
-O histórico de sessões é armazenado na memória durante a sessão. Para persistência permanente, considere adicionar localStorage.
-
-## 🚀 Melhorias Futuras
-
-- Salvar histórico com localStorage
-- Notificações do navegador
-- Temas personalizáveis
-- Integração com calendário
-- Relatórios semanais
+O histórico de sessões é armazenado na memória durante a sessão.
 
 ## 📄 Licença
 
